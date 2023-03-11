@@ -1,0 +1,10 @@
+*.class
+*.jar
+/target
+.idea
+/out
+/uploads
+*.iml
+/lib
+*.txt
+/src/test
